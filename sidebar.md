@@ -1,4 +1,4 @@
-- [About BitShares](/ "BitShares - About BitShares")
+- [Introduction](/ "BitShares - Introduction")
 - [WhitePaper](whitepaper "BitShares - Whitepaper")
 - [Markdown](markdown "BitShares - markdown")
 - **Links**
