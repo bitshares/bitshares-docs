@@ -2,8 +2,8 @@
 
 Welcome to BitShares Blockchain documentation portal. The contents on this page is managed with agile efforts by BitShares Blockchain community over [GitHub](https://github.com/BitShares).
 
-## Introduction
-BitShares Blockchain is a blockchain that permanently records operations between different Blockchain accounts. BitShares Blockchain is a decentralized “Blockchain as Organization” (BaO); an industrial-grade decentralized open source platform built to run high-performance financial technology operations. It represents the first decentralized autonomous decentralized community that enables its core utility token (BTS) holders to decide the Blockchain future direction in order to develop decentralized financial technology products and trending financial features and functions.
+## Blockchain Identity 
+BitShares Blockchain is a decentralized “Blockchain as Organization” (BaO); an industrial-grade decentralized open source platform built to run high-performance financial technology operations. It represents the first decentralized autonomous decentralized community that enables its core utility token (BTS) holders to decide the Blockchain future direction in order to develop decentralized financial technology products and trending financial features and functions. BitShares Blockchain is a blockchain that permanently records operations between different Blockchain accounts.
 
 ## Core Token
 BitShares Blockchain core token (BTS) is the core operations utility which is used as fees to submit transactions at BitShares Blockchain; it is also used for BitShares Blockchain development purposes; while (BTS) core token holders are in power to manage and develop BitShares Blockchain and influence its future using several decentralized Blockchain integrated built-in decentralized voting functions in order to issue utility to developers for their submitted and approved worker proposals from utility fees pool, also to assign committee members for maintaining Blockchain dynamic parameters and assign witness nodes that will validate transactions.
