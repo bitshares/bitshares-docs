@@ -1,4 +1,4 @@
-- [Introduction](/ "BitShares Blockchain - Introduction")
+- [Introduction](/ "BitShares Blockchain - Documentation")
 - [WhitePaper](whitepaper "BitShares Blockchain - Whitepaper")
 - [Tutorials](tutorials "BitShares Blockchain - Tutorials")
 - [Markdown](markdown "BitShares Blockchain - Markdown")
