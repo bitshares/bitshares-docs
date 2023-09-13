@@ -1,5 +1,7 @@
-- [Introduction](/ "BitShares - Introduction")
-- [WhitePaper](whitepaper "BitShares - Whitepaper")
-- [Markdown](markdown "BitShares - markdown")
-- **Links**
+- [Introduction](/ "BitShares Blockchain - Introduction")
+- [WhitePaper](whitepaper "BitShares Blockchain - Whitepaper")
+- [Tutorials](tutorials "BitShares Blockchain - Tutorials")
+- [Markdown](markdown "BitShares Blockchain - Markdown")
+- **Resources**
 - [Official Website](https://bitshares.github.io)
+- [Official GitHub](https://github.com/bitshares)
