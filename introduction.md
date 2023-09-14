@@ -8,7 +8,7 @@ BitShares Blockchain is a decentralized “Blockchain as Organization” (BaO); 
 ## Core Token
 BitShares Blockchain core token (BTS) is the core operations utility which is used as the fee to submit transactions over BitShares Blockchain; it is also used for BitShares Blockchain development purposes; while (BTS) core token holders are in power to manage and develop BitShares Blockchain to influence its future throught several Blockchain integrated built-in decentralized voting functions in order to issue utility to developers for their submitted and approved worker proposals, also to assign committee members for maintaining Blockchain dynamic parameters and vote witness nodes (Blockchain nodes) that will be validating live transactions.
 
-![BTS tokenomics](https://github.com/bitshares/docs/blob/41fea5641adb92cc70a03bb1830854dc67798f0c/images/tokenomics.png)
+![BTS tokenomics](images/tokenomics.png)
 
 
 ## Infrastructure
