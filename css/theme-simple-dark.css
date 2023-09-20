@@ -244,7 +244,9 @@ body:not([data-platform^=Mac]) * ::-webkit-scrollbar-track{
 .markdown-section pre[data-lang] code{
     display:block;
     overflow:auto;
-    padding:var(--code-block-padding)
+    padding:var(--code-block-padding);
+    word-break: break-all;
+    white-space: pre-line
 }
 code[class*=lang-],pre[data-lang]{
     color:var(--code-theme-text)
