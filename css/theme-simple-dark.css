@@ -1063,7 +1063,7 @@ body:not([data-platform^=Mac]) .sidebar::-webkit-scrollbar-thumb{
     background:var(--sidebar-nav-link-background);
     color:var(--sidebar-nav-link-color);
     font-weight:var(--sidebar-nav-link-font-weight);
-    white-space:nowrap;
+    word-break: break-word;
     -webkit-text-decoration:var(--sidebar-nav-link-text-decoration);
     text-decoration:var(--sidebar-nav-link-text-decoration);
     -webkit-text-decoration-color:var(--sidebar-nav-link-text-decoration-color);
