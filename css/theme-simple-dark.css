@@ -398,7 +398,7 @@ pre[data-lang]::selection,pre[data-lang] ::selection,code[class*=lang-]::selecti
     border-radius:var(--code-inline-border-radius);
     background:var(--code-inline-background);
     color:var(--code-inline-color, currentColor);
-    white-space:nowrap
+    white-space:pre-line
 }
 .markdown-section h1:first-child,.markdown-section h2:first-child,.markdown-section h3:first-child,.markdown-section h4:first-child,.markdown-section h5:first-child,.markdown-section h6:first-child{
     margin-top:0
