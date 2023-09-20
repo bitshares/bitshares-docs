@@ -1,6 +1,6 @@
 - [Introduction](/ "BitShares Blockchain - Documentation")
 - [WhitePaper](whitepaper "BitShares Blockchain - Whitepaper")
-- [Tutorials](tutorials "BitShares Blockchain - Tutorials")
+- [BitShares-Core](bitshares-core "BitShares Blockchain - BitShares-Core")
 - [Markdown](markdown "BitShares Blockchain - Markdown")
 - **Resources**
 - [Official Website](https://bitshares.github.io)
