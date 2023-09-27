@@ -3,8 +3,8 @@
 - [Roadmap](roadmap "BitShares Blockchain - Roadmap")
 - [Core Node](bitshares-core "BitShares Blockchain - Core Node")
 - **Libraries**
-- [BitSharesJS - JS ESM](bitsharesjs "BitShares Blockchain - BitSharesJS")
-- [btsdex - JS CJS](btsdex "BitShares Blockchain - btsdex")
+- [JS ESM](bitsharesjs "BitShares Blockchain - BitSharesJS")
+- [JS CJS](btsdex "BitShares Blockchain - btsdex")
 - **Resources**
 - [Official Website](https://bitshares.github.io)
 - [Official GitHub](https://github.com/bitshares)
