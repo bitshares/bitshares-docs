@@ -1,6 +1,5 @@
 - [Introduction](/ "BitShares Blockchain - Documentation")
 - [WhitePaper](whitepaper "BitShares Blockchain - Whitepaper")
-- [Roadmap](roadmap "BitShares Blockchain - Roadmap")
 - [Core Node](bitshares-core "BitShares Blockchain - Core Node")
 - **Libraries**
 - [JS ESM](bitsharesjs "BitShares Blockchain - BitSharesJS")
@@ -8,3 +7,4 @@
 - **Resources**
 - [Official Website](https://bitshares.github.io)
 - [Official GitHub](https://github.com/bitshares)
+- [Awesome Bitshares](https://github.com/bitshares/awesome-bitshares)

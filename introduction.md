@@ -47,9 +47,6 @@ A Blockchain that processes 100,000 transactions every second generates a lot of
 
 Designing a high-performance Blockchain isn’t rocket-science, and doesn’t require complex, hard-to-understand protocols, nor does it require dividing processing among all the nodes on the network. Instead, all that is necessary to build a high-performance Blockchain is to remove all calculations that are not part of the critical, order-dependent, evaluation from the core business logic, and to design a protocol that facilitates these kinds of optimizations. This is what BitShares Blockchain has done.
 
-
-[Join our telegram development group](https://t.me/BitSharesDEV)
-
 BitShares Blockchain GitHub development team:
 
 <a href="https://github.com/bitshares/bitshares-core/graphs/contributors">
